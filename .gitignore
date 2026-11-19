@@ -1,0 +1,7 @@
+target/
+nbproject/private/
+.idea/
+*.iml
+BAI_TAP.md
+nb-configuration.xml
+src/main/webapp/META-INF/context.xml
